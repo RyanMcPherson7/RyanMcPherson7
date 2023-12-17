@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Ryan!
-- 🌱 I'm a computer science student at UF 
+- 🌱 I'm a computer science student at University of Florida
 - 🌐 Check out my website [here](https://ryanmcpherson.info)
 - 🎵 Check out my latest project [here](https://sixdos.herokuapp.com/)
